@@ -12,6 +12,7 @@ public class Test {
 		System.out.println("Helloo");
 		
 		System.out.println("Hello From Selenium");
+		System.out.println("Selenium Tutorial");
 		
 		//WebDriver driver=new FirefoxDriver();
 		//WebDriver driver=new ChromeDriver();
